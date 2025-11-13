@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Graduate School Notes - Ph.D Applied Mathematics</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Graduate School Notes - Hunter Carroll</title>
+    <subtitle>Notes and Worked Out Solutions</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
