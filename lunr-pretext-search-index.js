@@ -19,6 +19,15 @@ var ptx_lunr_docs = [
   "body": " Section Title  hihi  "
 },
 {
+  "id": "Chapter_2",
+  "level": "1",
+  "url": "Chapter_2.html",
+  "type": "Section",
+  "number": "1.2",
+  "title": "chapter 2",
+  "body": " chapter 2  hihi  "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
