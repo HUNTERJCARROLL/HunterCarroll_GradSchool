@@ -4,10 +4,12 @@
   <title>Applied Linear Algebra</title>
 
   <introduction>
-    <p> will do math here</p>
+    <p> Here I will place my notes as I prepare for Applied Linear Algebra preliminary exam.</p>
   </introduction>
 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
+  <xi:include href="/workspaces/HunterCarroll_GradSchool/source/Applied_Lin_Alg_Chpt_2/Chapter_2.ptx"/>
+
 
 </chapter>
