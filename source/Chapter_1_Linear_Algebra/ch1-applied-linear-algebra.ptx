@@ -8,6 +8,6 @@
   
 
   <!-- sections -->
-  <xi:include href="ch1-sec1.ptx"/>
   <xi:include href="ch1-syllabus.ptx"/>
+  <xi:include href="ch1-sec1.ptx"/>
 </chapter>
