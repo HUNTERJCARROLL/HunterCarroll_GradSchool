@@ -8,14 +8,15 @@
     <title>Link to Resources</title>
     <tabular halign="center">
         <row header="yes" bottom="minor">
-        <cell>Title <m>x</m></cell>
-        <cell>Description <m>y</m></cell>
+        <cell>Title</cell>
+        <cell>Description</cell>
         </row>
         <row>
         <cell>
             <url href="https://pretextbook.org/doc/guide/html/guide-toc.html">The PreTeXt Guide</url>
         </cell>
-        <cell>Guide</cell>
+        <cell><url href="http://abstract.ups.edu/aata/aata-toc.html">Abstract Algebra</url></cell>
+        <cell>Example textbook written using PreTeXt</cell>
         </row>
     </tabular>
 </table>
