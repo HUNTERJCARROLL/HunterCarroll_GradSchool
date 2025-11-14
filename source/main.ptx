@@ -11,13 +11,11 @@
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
-    <!-- Include chapters -->
+    <!-- Include chapters : order matters-->
     <xi:include href="Chapter_1_Linear_Algebra/ch1-applied-linear-algebra.ptx"/>
-
+    <xi:include href="MathStudyTips.ptx"/>
     <!-- Include Resources -->
     <xi:include href="Useful-Resources.ptx"/>
-
-
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
