@@ -14,6 +14,8 @@
     <!-- Include chapters -->
     <xi:include href="Chapter_1_Linear_Algebra/ch1-applied-linear-algebra.ptx"/>
 
+    <!-- Include Resources -->
+    <xi:include href="Useful-Resources.ptx"/>
 
 
     <!-- Include backmatter -->
