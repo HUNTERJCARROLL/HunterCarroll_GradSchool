@@ -19,7 +19,7 @@
         </row>
         <row>
             <cell><url href="http://abstract.ups.edu/aata/aata-toc.html">Abstract Algebra</url></cell>
-            <cell>Example textbook written using PreTeXt</cell>
+            <cell>Example textbook written using <url href="https://github.com/twjudson/aata/tree/master">PreTeXt</url></cell>
         </row>
     </tabular>
 </table>
