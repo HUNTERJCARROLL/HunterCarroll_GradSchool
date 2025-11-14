@@ -1,4 +1,44 @@
 <section xml:id="ch1-syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Syllabus</title>
     <p>Overview of topics, grading, and schedule.</p>
+
+    <table>
+        <title>A simple table</title>
+        <tabular halign="center">
+            <row header="yes" bottom="minor" >
+            <cell>Variable <m>x</m></cell>
+            <cell>Variable <m>y</m></cell>
+            <cell>Conjunction <m>x\wedge y</m></cell>
+            <cell>Disjunction <m>x\vee y</m></cell>
+            </row>
+            <row>
+            <cell>T</cell>
+            <cell>T</cell>
+            <cell>T</cell>
+            <cell>T</cell>
+            </row>
+            <row>
+            <cell>T</cell>
+            <cell>F</cell>
+            <cell>F</cell>
+            <cell>T</cell>
+            </row>
+            <row>
+            <cell>F</cell>
+            <cell>T</cell>
+            <cell>F</cell>
+            <cell>T</cell>
+            </row>
+            <row>
+            <cell>F</cell>
+            <cell>F</cell>
+            <cell>F</cell>
+            <cell>F</cell>
+            </row>
+  </tabular>
+
+</table>
+
+
+
 </section>
