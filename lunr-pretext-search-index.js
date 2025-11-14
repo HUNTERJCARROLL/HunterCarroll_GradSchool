@@ -91,6 +91,15 @@ var ptx_lunr_docs = [
   "body": "  Describe in geometrically.   "
 },
 {
+  "id": "Useful-Resources",
+  "level": "1",
+  "url": "Useful-Resources.html",
+  "type": "Chapter",
+  "number": "2",
+  "title": "Links",
+  "body": " Links   Useful Links.   "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
