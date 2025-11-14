@@ -5,11 +5,9 @@
     <p>Notes and worked solutions as I prepare for the preliminary exams.</p>
   </introduction>
 
-  <section xml:id="ch1-syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Syllabus</title>
-    <p>Overview of topics, grading, and schedule.</p>
-  </section>
+  
 
   <!-- sections -->
   <xi:include href="ch1-sec1.ptx"/>
+  <xi:include href="ch1-syllabus.ptx"/>
 </chapter>
