@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Preface",
   "number": "",
   "title": "Preface",
-  "body": " test  "
+  "body": " I will use this textbook as a place for me to store my notes and worked out solutions as I work through my PhD. I would also like to use this place to document my journey through the process hopefully it helps other students in similar positions.  "
 },
 {
   "id": "ch1-syllabus",
