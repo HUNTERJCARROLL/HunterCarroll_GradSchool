@@ -96,8 +96,17 @@ var ptx_lunr_docs = [
   "url": "Useful-Resources.html",
   "type": "Chapter",
   "number": "2",
-  "title": "Links",
-  "body": " Links   Useful Links.   "
+  "title": "Useful Resources",
+  "body": " Useful Resources   Useful Links.    Link to Resources    Title  Description     The PreTeXt Guide   Guide     "
+},
+{
+  "id": "Useful-Resources-3",
+  "level": "2",
+  "url": "Useful-Resources.html#Useful-Resources-3",
+  "type": "Table",
+  "number": "2.0.1",
+  "title": "Link to Resources",
+  "body": " Link to Resources    Title  Description     The PreTeXt Guide   Guide    "
 },
 {
   "id": "backmatter-2",
