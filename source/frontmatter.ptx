@@ -15,10 +15,7 @@
       <today />
     </date>
 
-    <p>
-      <title>test</title>
-      test
-    </p>
+
 
     <website>
       <url href="https://hunterjcarroll.github.io/">My Personal Website</url>
@@ -39,6 +36,11 @@
 
   <colophon xml:id="front-colophon">
     <colophon-items/>
-  </colophon>
+  </colophon> 
+
+  <p>
+    test
+  </p>
+
 </frontmatter>
 
