@@ -15,6 +15,11 @@
       <today />
     </date>
 
+    <paragraphs>
+      <title>test</title>
+      test
+    </paragraphs>
+
     <website>
       <url href="https://hunterjcarroll.github.io/">My Personal Website</url>
     </website>
