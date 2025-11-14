@@ -38,9 +38,12 @@
     <colophon-items/>
   </colophon> 
 
-  <p>
-    test
-  </p>
+  <preface>
+
+    <p>
+      test
+    </p>
+  </preface>
 
 </frontmatter>
 
