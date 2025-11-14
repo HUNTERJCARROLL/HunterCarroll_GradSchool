@@ -105,8 +105,8 @@ var ptx_lunr_docs = [
   "url": "MathStudyTips.html",
   "type": "Chapter",
   "number": "2",
-  "title": "Useful Resources",
-  "body": " Useful Resources   Useful Links.   "
+  "title": "How to Study Maths - Personal Perspective",
+  "body": " How to Study Maths - Personal Perspective   I will post here my approaches to solving mathematical proofs and hopefully I will adapt these methods as my mathematical maturity grows. I decided to start writing this \"textbook\" because it allows me to act as if I am teaching or writing this for a learning audience. This encompasses many benefits such as identifying gaps in my knowledge and allows me to connect more deeply to the concepts. It is important that we learn to struggle efficiently. By this I mean in the age of AI it is important that we don't succumb to the easy route. We need to develop our critical thinking skills more than ever and learn to struggle. In struggle we can achieve our greatest ideas and lead the way to solving more complex challenges. In this section I will borrow ideas from history's greatest minds and hopefully they serve as useful methods in our own endeavors.   "
 },
 {
   "id": "Useful-Resources",
