@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "2",
   "title": "Useful Resources",
-  "body": " Useful Resources   Useful Links.    Link to Resources    Title  Description     The PreTeXt Guide   Guide     "
+  "body": " Useful Resources   Useful Links.    Link to Resources    Title  Description     The PreTeXt Guide   Abstract Algebra  Example textbook written using PreTeXt     "
 },
 {
   "id": "Useful-Resources-3",
@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "2.0.1",
   "title": "Link to Resources",
-  "body": " Link to Resources    Title  Description     The PreTeXt Guide   Guide    "
+  "body": " Link to Resources    Title  Description     The PreTeXt Guide   Abstract Algebra  Example textbook written using PreTeXt    "
 },
 {
   "id": "backmatter-2",
