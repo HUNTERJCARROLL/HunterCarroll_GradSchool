@@ -10,22 +10,67 @@ var ptx_lunr_docs = [
   "body": "  "
 },
 {
-  "id": "sec-section-name",
+  "id": "ch1-sec1",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "ch1-sec1.html",
   "type": "Section",
   "number": "1.1",
-  "title": "Section Title",
-  "body": " Section Title  hihi  "
+  "title": "Vectors and Linear Combinations",
+  "body": " Vectors and Linear Combinations   This section reviews vectors in , linear combinations, and span.    Basic Definitions  A vector in is an ordered -tuple . Vector addition and scalar multiplication are defined componentwise.    Given vectors and scalars , a linear combination of the vectors is .      With , , and , , the linear combination is .      Span    The span of is .    Geometrically, the span is the smallest subspace containing the vectors.    Linear Independence    Vectors are linearly independent if implies .    A quick test: place the vectors as columns of a matrix . If , then they are independent.      Let , , . Determine whether is linearly independent.      Describe in geometrically.     "
 },
 {
-  "id": "Chapter_2",
-  "level": "1",
-  "url": "Chapter_2.html",
-  "type": "Section",
-  "number": "1.2",
-  "title": "chapter 2",
-  "body": " chapter 2  hihi  "
+  "id": "def-linear-combination",
+  "level": "2",
+  "url": "ch1-sec1.html#def-linear-combination",
+  "type": "Definition",
+  "number": "1.1.1",
+  "title": "",
+  "body": "  Given vectors and scalars , a linear combination of the vectors is .   "
+},
+{
+  "id": "ex-basic-combo",
+  "level": "2",
+  "url": "ch1-sec1.html#ex-basic-combo",
+  "type": "Example",
+  "number": "1.1.2",
+  "title": "",
+  "body": "  With , , and , , the linear combination is .   "
+},
+{
+  "id": "def-span",
+  "level": "2",
+  "url": "ch1-sec1.html#def-span",
+  "type": "Definition",
+  "number": "1.1.3",
+  "title": "",
+  "body": "  The span of is .   "
+},
+{
+  "id": "def-lin-indep",
+  "level": "2",
+  "url": "ch1-sec1.html#def-lin-indep",
+  "type": "Definition",
+  "number": "1.1.4",
+  "title": "",
+  "body": "  Vectors are linearly independent if implies .   "
+},
+{
+  "id": "ch1-sec1-ex1",
+  "level": "2",
+  "url": "ch1-sec1.html#ch1-sec1-ex1",
+  "type": "Exercise",
+  "number": "1.1.4.1",
+  "title": "",
+  "body": "  Let , , . Determine whether is linearly independent.   "
+},
+{
+  "id": "ch1-sec1-ex2",
+  "level": "2",
+  "url": "ch1-sec1.html#ch1-sec1-ex2",
+  "type": "Exercise",
+  "number": "1.1.4.2",
+  "title": "",
+  "body": "  Describe in geometrically.   "
 },
 {
   "id": "backmatter-2",
