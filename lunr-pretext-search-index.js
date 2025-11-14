@@ -100,6 +100,15 @@ var ptx_lunr_docs = [
   "body": "  Describe in geometrically.   "
 },
 {
+  "id": "ch1-orthogonality",
+  "level": "1",
+  "url": "ch1-orthogonality.html",
+  "type": "Section",
+  "number": "1.3",
+  "title": "Orthogonality",
+  "body": " Orthogonality  On orthogonality.  "
+},
+{
   "id": "MathStudyTips",
   "level": "1",
   "url": "MathStudyTips.html",
