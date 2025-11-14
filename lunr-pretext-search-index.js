@@ -100,11 +100,20 @@ var ptx_lunr_docs = [
   "body": "  Describe in geometrically.   "
 },
 {
+  "id": "MathStudyTips",
+  "level": "1",
+  "url": "MathStudyTips.html",
+  "type": "Chapter",
+  "number": "2",
+  "title": "Useful Resources",
+  "body": " Useful Resources   Useful Links.   "
+},
+{
   "id": "Useful-Resources",
   "level": "1",
   "url": "Useful-Resources.html",
   "type": "Chapter",
-  "number": "2",
+  "number": "3",
   "title": "Useful Resources",
   "body": " Useful Resources   Useful Links.    Link to Resources    Title  Description     The PreTeXt Guide   Guide for using PreTeXt    Abstract Algebra  Example textbook written using PreTeXt     "
 },
@@ -113,7 +122,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "Useful-Resources.html#Useful-Resources-3",
   "type": "Table",
-  "number": "2.0.1",
+  "number": "3.0.1",
   "title": "Link to Resources",
   "body": " Link to Resources    Title  Description     The PreTeXt Guide   Guide for using PreTeXt    Abstract Algebra  Example textbook written using PreTeXt    "
 },
