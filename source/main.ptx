@@ -5,14 +5,14 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Graduate School Notes</title>
+    <title>Graduate School</title>
     <subtitle>Notes and Solutions</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="ch-applied-linear-algebra.ptx"/>
+    <xi:include href="Chapter_1_Linear_Algebra/ch1-applied-linear-algebra.ptx"/>
 
 
 
