@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="Useful-Resources" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Links</title>
+  <title>Useful Resources</title>
   <introduction>
     <p>Useful Links.</p>
   </introduction>
+<table>
+    <title>Link to Resources</title>
+    <tabular halign="center">
+        <row header="yes" bottom="minor">
+        <cell>Title <m>x</m></cell>
+        <cell>Description <m>y</m></cell>
+        </row>
+        <row>
+        <cell>
+            <url href="https://pretextbook.org/doc/guide/html/guide-toc.html">The PreTeXt Guide</url>
+        </cell>
+        <cell>Guide</cell>
+        </row>
+    </tabular>
+</table>
+
 
 </chapter>
