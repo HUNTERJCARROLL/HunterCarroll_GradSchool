@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Syllabus",
-  "body": " Syllabus  Overview of topics, grading, and schedule.  "
+  "body": " Syllabus  Overview of topics, grading, and schedule.   A simple table    Variable  Variable  Conjunction  Disjunction    T  T  T  T    T  F  F  T    F  T  F  T    F  F  F  F     "
+},
+{
+  "id": "ch1-syllabus-3",
+  "level": "2",
+  "url": "ch1-syllabus.html#ch1-syllabus-3",
+  "type": "Table",
+  "number": "1.1.1",
+  "title": "A simple table",
+  "body": " A simple table    Variable  Variable  Conjunction  Disjunction    T  T  T  T    T  F  F  T    F  T  F  T    F  F  F  F    "
 },
 {
   "id": "ch1-sec1",
