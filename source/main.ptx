@@ -6,13 +6,14 @@
 
   <book xml:id="my-great-book">
     <title>Graduate School Notes - Hunter Carroll</title>
-    <subtitle>Notes and Worked Out Solutions</subtitle>
+    <subtitle>Notes and Worked Out Solutions from </subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="ch-applied-linear-algebra.ptx"/>
+
 
 
     <!-- Include backmatter -->
